@@ -41,6 +41,10 @@ WebElement txtFirstName=	wait.until(new Function<WebDriver,WebElement>(){
 		}
 		
 	});
+
 	txtFirstName.sendKeys("mahi1");
+
+	
+
 }
 }
